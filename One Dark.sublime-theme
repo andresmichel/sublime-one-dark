@@ -1,4 +1,10 @@
 [
+    // Window - title bar
+    {
+        "class": "title_bar",
+        "bg": [33, 37, 43],
+        "fg": [167, 175, 192]
+    },
     // Autocomplete - background
     {
         "class": "auto_complete",
